@@ -23,7 +23,7 @@ Sistem memiliki 3 class utama yang saling berinteraksi, yaitu:
 
 Untuk menjalankan kode, jalankan file `main.py` menggunakan Python.
 
-Pada blok paling bawah kode, terdapat kode pengujian terstruktur:
+Pada blok paling bawah kode, terdapat kode untuk program pengujian:
 1. Pembuatan masing-masing 2 objek untuk setiap kelas.
 2. Demonstrasi pemanggilan *static method*, *instance method*, dan *class method*.
 3. Pengujian *setter*: Terdapat eksperimen memberikan data valid dan data tidak valid pada properti `horsepower` dan `anggaran` untuk membuktikan fungsionalitas proteksi data berjalan semestinya. Baris akhir dibiarkan menjadi komentar agar bisa di-*uncomment* untuk melihat munculnya *ValueError*.
